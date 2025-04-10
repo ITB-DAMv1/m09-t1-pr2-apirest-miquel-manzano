@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\tools\\roletools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\tools\\roletools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +35,18 @@
       "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\dto\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\tools\\roletools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\tools\\roletools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|c:\\users\\isard\\documents\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,24 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Program.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Program.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Program.cs",
               "RelativeToolTip": "GamesJamApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T10:56:37.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "RoleTools.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Tools\\RoleTools.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Tools\\RoleTools.cs",
@@ -96,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\appsettings.json",
               "RelativeDocumentMoniker": "GamesJamApi\\appsettings.json",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\UserDTO.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\RegisterDTO.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\LoginDTO.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "GameDTO.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\GameDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\GameDTO.cs",
@@ -161,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "VotesController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\VotesController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\VotesController.cs",
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\GamesController.cs",
@@ -199,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\AuthController.cs",
@@ -212,46 +212,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Context\\AppDbContext.cs",
               "RelativeToolTip": "GamesJamApi\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T10:54:29.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Vote.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Vote.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\Vote.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Vote.cs",
               "RelativeToolTip": "GamesJamApi\\Models\\Vote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T10:53:30.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\Game.cs",
               "ToolTip": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Game.cs",
               "RelativeToolTip": "GamesJamApi\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T10:53:27.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\isard\\Documents\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\ApplicationUser.cs",
