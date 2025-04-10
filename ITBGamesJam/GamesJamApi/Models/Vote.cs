@@ -3,14 +3,14 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GamesJamApi.Models
 {
-    [Table("Games")]
-    public class Game
+    [Table("Votes")]
+    public class Vote
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
-        public string Name { get; set; }
-        public string? Description { get; set; }
+        public Game Game { get; set; }
+        public ApplicationUser User {  get; set; }
     }
 }
