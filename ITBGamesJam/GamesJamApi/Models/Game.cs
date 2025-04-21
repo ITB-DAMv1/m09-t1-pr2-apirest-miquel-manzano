@@ -12,5 +12,8 @@ namespace GamesJamApi.Models
 
         public string Name { get; set; }
         public string? Description { get; set; }
+
+        // Propiedad de navegación para los votos
+        public virtual ICollection<Vote> Votes { get; set; } = new List<Vote>();
     }
 }
