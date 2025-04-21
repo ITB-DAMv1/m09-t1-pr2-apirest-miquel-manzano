@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamapi\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E763BCD-76D0-4645-9C31-400E81C8886C}|GamesJamApi\\GamesJamApi.csproj|solutionrelative:gamesjamapi\\controllers\\votescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +110,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Profile\\Index.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Profile\\Index.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T23:38:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T23:38:27.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T23:38:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Games\\Details.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Games\\Details.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Games\\Details.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Games\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T23:37:43.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Games\\Index.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Games\\Index.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T23:37:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GamesJamClient\\Models\\User.cs",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\User.cs",
+              "RelativeToolTip": "GamesJamClient\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:37:11.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\Vote.cs",
+              "RelativeDocumentMoniker": "GamesJamClient\\Models\\Vote.cs",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\Vote.cs",
+              "RelativeToolTip": "GamesJamClient\\Models\\Vote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:37:06.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GamesJamClient\\Models\\Game.cs",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Models\\Game.cs",
+              "RelativeToolTip": "GamesJamClient\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:37:00.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GamesJamClient\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Services\\AuthService.cs",
+              "RelativeToolTip": "GamesJamClient\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:36:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "GamesJamClient\\Services\\ApiService.cs",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "GamesJamClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:36:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "VoteResponseDto.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\VoteResponseDto.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\VoteResponseDto.cs",
@@ -78,12 +248,11 @@
               "RelativeToolTip": "GamesJamApi\\DTO\\VoteResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:49:25.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:49:25.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "VoteDto.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\VoteDto.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\VoteDto.cs",
@@ -91,12 +260,11 @@
               "RelativeToolTip": "GamesJamApi\\DTO\\VoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:49:11.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:49:11.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\Game.cs",
@@ -104,12 +272,11 @@
               "RelativeToolTip": "GamesJamApi\\Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:32:48.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:32:48.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Context\\AppDbContext.cs",
@@ -117,12 +284,11 @@
               "RelativeToolTip": "GamesJamApi\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:31:50.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:31:50.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Vote.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\Vote.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\Vote.cs",
@@ -130,12 +296,11 @@
               "RelativeToolTip": "GamesJamApi\\Models\\Vote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:27:28.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:27:28.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "GamesController.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\GamesController.cs",
@@ -143,12 +308,11 @@
               "RelativeToolTip": "GamesJamApi\\Controllers\\GamesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T22:20:46.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T22:20:46.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Program.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Program.cs",
@@ -156,12 +320,11 @@
               "RelativeToolTip": "GamesJamApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:29:01.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T20:29:01.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\LoginDTO.cs",
@@ -169,12 +332,11 @@
               "RelativeToolTip": "GamesJamApi\\DTO\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:37:39.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:37:39.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\RegisterDTO.cs",
@@ -182,12 +344,11 @@
               "RelativeToolTip": "GamesJamApi\\DTO\\RegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T17:17:41.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T17:17:41.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Models\\ApplicationUser.cs",
@@ -195,12 +356,11 @@
               "RelativeToolTip": "GamesJamApi\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:47:15.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:47:15.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\DTO\\UserDTO.cs",
@@ -208,12 +368,11 @@
               "RelativeToolTip": "GamesJamApi\\DTO\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:46:55.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:46:55.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "VotesController.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\VotesController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\VotesController.cs",
@@ -226,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "GamesJamApi\\Controllers\\AuthController.cs",
@@ -234,8 +393,7 @@
               "RelativeToolTip": "GamesJamApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T16:45:31.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T16:45:31.912Z"
             }
           ]
         }
