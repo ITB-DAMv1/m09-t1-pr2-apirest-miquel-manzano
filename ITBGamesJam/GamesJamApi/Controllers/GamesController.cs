@@ -26,8 +26,8 @@ namespace GamesJamApi.Controllers
             return Ok("Helo client");
         }
 
-        [HttpGet("GetAllGames")]
-        public async Task<ActionResult<IEnumerable<GameDTO>>> GetFilms()
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<GameDTO>>> GetGames()
         {
             var games = await _context.Games
                 .Select(g => new GameDTO
@@ -39,7 +39,7 @@ namespace GamesJamApi.Controllers
             return Ok(games);
         }
 
-        [HttpGet("GetGameById/{id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<Game>> GetGame(int id)
         {
             var game = await _context.Games.FindAsync(id);
