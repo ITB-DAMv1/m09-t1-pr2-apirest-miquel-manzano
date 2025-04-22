@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesJamApi", "GamesJamApi\GamesJamApi.csproj", "{0E763BCD-76D0-4645-9C31-400E81C8886C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesJamClient", "GamesJamClient\GamesJamClient.csproj", "{03E80FD5-3985-438E-BD2C-A46D844ACF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E763BCD-76D0-4645-9C31-400E81C8886C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E763BCD-76D0-4645-9C31-400E81C8886C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E763BCD-76D0-4645-9C31-400E81C8886C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E763BCD-76D0-4645-9C31-400E81C8886C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E80FD5-3985-438E-BD2C-A46D844ACF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E80FD5-3985-438E-BD2C-A46D844ACF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E80FD5-3985-438E-BD2C-A46D844ACF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E80FD5-3985-438E-BD2C-A46D844ACF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD80A4E9-C735-406C-8367-5689C6DA7080}
+	EndGlobalSection
+EndGlobal

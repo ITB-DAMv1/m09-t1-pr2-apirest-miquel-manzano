@@ -1,0 +1,65 @@
+﻿@page
+@model GamesJamClient.Pages.Games.IndexModel
+@{
+	ViewData["Title"] = "Top Games";
+}
+
+
+
+<div class="container mt-4">
+    <h2>Top 10 Games</h2>
+
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Team</th>
+                    <th>Votes</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var game in Model.Games)
+                {
+                    <tr>
+                        <td>@game.Name</td>
+                        <td>@game.VotesCount</td>
+                        <td>
+                            <a href="/Games/Details?id=@game.Id" class="btn btn-info btn-sm">Details</a>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <button onclick="vote(@game.Id)" class="btn btn-primary btn-sm @(game.HasVoted ? "disabled" : "")" @(game.HasVoted ? "disabled" : "")>
+                                    @(game.HasVoted ? "Voted" : "Vote")
+                                </button>
+                            }
+                            else
+                            {
+                                <a href="/Account/Login" class="btn btn-primary btn-sm">Login to Vote</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        async function vote(gameId) {
+            const response = await fetch(`/Games/Vote?gameId=${gameId}`, {
+                method: 'POST',
+                headers: {
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                }
+            });
+
+            if (response.ok) {
+                location.reload();
+            } else {
+                alert('Error voting for game');
+            }
+        }
+    </script>
+}

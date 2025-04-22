@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|d:\\programacion\\m09-t1-pr2-apirest-miquel-manzano\\itbgamesjam\\gamesjamclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E80FD5-3985-438E-BD2C-A46D844ACF3F}|GamesJamClient\\GamesJamClient.csproj|solutionrelative:gamesjamclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GamesJamClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programacion\\m09-t1-pr2-apirest-miquel-manzano\\ITBGamesJam\\GamesJamClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GamesJamClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T03:18:06.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
