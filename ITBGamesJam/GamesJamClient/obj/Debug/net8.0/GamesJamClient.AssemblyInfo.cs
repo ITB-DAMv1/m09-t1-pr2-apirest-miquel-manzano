@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamesJamClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+549ad68d004326cf2bed875df3c280123f859847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c0f7f60b8e0bf42704c227eb3484ce0059bc13")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamesJamClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamesJamClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
